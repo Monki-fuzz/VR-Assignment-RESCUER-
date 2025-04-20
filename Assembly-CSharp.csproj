@@ -102,6 +102,7 @@
     <Compile Include="Assets\_Course Library\Scripts\Actions\MatchRotation.cs" />
     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor1.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnTimedInterval.cs" />
+    <Compile Include="Assets\Sport Car - 3D model\Scripts\LightEffects.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnPull.cs" />
     <Compile Include="Assets\ALP_Assets\Poplar Tree FREE\Core\Scripts\Controller\ALP8310_ControllerStyle.cs" />
@@ -152,6 +153,7 @@
     <Compile Include="Assets\_Course Library\Scripts\Actions\MoveWithVelocity.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetMaterialColor.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\CreateTrail.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseStallDoor.cs" />
     <Compile Include="Assets\Phoenix3D\P3D_Wallpaper_Carpet_and_CurtainFabric_Materials_Pack\Scripts\OpenURL.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
@@ -168,6 +170,7 @@
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnTrigger.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetInteractionLayer.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\VibrateController.cs" />
+    <Compile Include="Assets\Sport Car - 3D model\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow1.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\FadeCanvas.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetLightColor.cs" />
